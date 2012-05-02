@@ -53,8 +53,6 @@ PRODUCT_PACKAGES += \
 
 # Keylayouts
 PRODUCT_COPY_FILES += \
-    device/htc/vision/keychars/qwerty2.kcm.bin:system/usr/keychars/qwerty2.kcm.bin \
-    device/htc/vision/keychars/qwerty.kcm.bin:system/usr/keychars/qwerty.kcm.bin \
     device/htc/vision/keychars/vision-keypad-ara.kcm.bin:system/usr/keychars/vision-keypad-ara.kcm.bin \
     device/htc/vision/keychars/vision-keypad-ell.kcm.bin:system/usr/keychars/vision-keypad-ell.kcm.bin \
     device/htc/vision/keychars/vision-keypad-esn.kcm.bin:system/usr/keychars/vision-keypad-esn.kcm.bin \
@@ -69,6 +67,7 @@ PRODUCT_COPY_FILES += \
     device/htc/vision/keychars/vision-keypad-tur.kcm.bin:system/usr/keychars/vision-keypad-tur.kcm.bin \
     device/htc/vision/keychars/vision-keypad-wwe-bopomo.kcm.bin:system/usr/keychars/vision-keypad-wwe-bopomo.kcm.bin \
     device/htc/vision/keychars/vision-keypad-wwe.kcm.bin:system/usr/keychars/vision-keypad-wwe.kcm.bin \
+    device/htc/vision/keylayout/AVRCP.kl \
     device/htc/vision/keylayout/h2w_headset.kl:system/usr/keylayout/h2w_headset.kl \
     device/htc/vision/keylayout/vision-keypad-ara.kl:system/usr/keylayout/vision-keypad-ara.kl \
     device/htc/vision/keylayout/vision-keypad-ell.kl:system/usr/keylayout/vision-keypad-ell.kl \
