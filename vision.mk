@@ -67,7 +67,7 @@ PRODUCT_COPY_FILES += \
     device/htc/vision/keychars/vision-keypad-tur.kcm.bin:system/usr/keychars/vision-keypad-tur.kcm.bin \
     device/htc/vision/keychars/vision-keypad-wwe-bopomo.kcm.bin:system/usr/keychars/vision-keypad-wwe-bopomo.kcm.bin \
     device/htc/vision/keychars/vision-keypad-wwe.kcm.bin:system/usr/keychars/vision-keypad-wwe.kcm.bin \
-    device/htc/vision/keylayout/AVRCP.kl \
+    device/htc/vision/keylayout/AVRCP.kl:system/usr/keylayout/AVRCP.kl \
     device/htc/vision/keylayout/h2w_headset.kl:system/usr/keylayout/h2w_headset.kl \
     device/htc/vision/keylayout/vision-keypad-ara.kl:system/usr/keylayout/vision-keypad-ara.kl \
     device/htc/vision/keylayout/vision-keypad-ell.kl:system/usr/keylayout/vision-keypad-ell.kl \
